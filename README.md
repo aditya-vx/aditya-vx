@@ -5,7 +5,7 @@
 ## Kanger 100000%
 
 
-<p align="center"><a href="https://github.com/aditya-vx"><img src="https://github-readme-stats.vercel.app/api?username=aditya-vx&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/aditya-vx"><img src="https://github-readme-stats.vercel.app/api?username=Aditya-vx&show_icons=true&theme=radical"></a></p>
 
 ### connect!
 <p>
