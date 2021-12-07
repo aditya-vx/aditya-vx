@@ -1,4 +1,4 @@
-![Feri](https://i.imgur.com/UKcwuI5.jpg)
+![Feri](https://telegra.ph/file/73322d6c642c5d441ed3b.jpg)
 
 
 # About me
