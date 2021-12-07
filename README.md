@@ -2,14 +2,12 @@
 
 
 # Helo there I'm Aditya Ramadhan
+## Kanger 100000%
 
 
-### Kanger 100000%
-
-### Stats:
 <p align="center"><a href="https://github.com/aditya-vx"><img src="https://github-readme-stats.vercel.app/api?username=aditya-vx&show_icons=true&theme=radical"></a></p>
 
-### Let's connect!
+### connect!
 <p>
     <a href="https://t.me/adityavx" target="blank"><img src="https://img.shields.io/badge/@adityavx-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/69dity" target="blank"><img src="https://img.shields.io/badge/@69dity-30302f?style=flat&logo=instagram" /></a>
