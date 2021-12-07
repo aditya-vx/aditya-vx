@@ -1,24 +1,13 @@
 ![aditya](https://telegra.ph/file/73322d6c642c5d441ed3b.jpg)
 
 
-# About me
-- **Nama**  : `Aditya Ramadhan`
-- **Status**: `Student`
-- **Umur**  : `16`
-- **Asal**  : `Indonesian, bekasi`
+# Helo there I'm Aditya Ramadhan
 
 
-### Skills
-- Tidur (100%)
-- Makan (100%)
-- Sange (100%)
-- Belajar kode (-1%)
-
+### Kanger 100000%
 
 ### Stats:
 <p align="center"><a href="https://github.com/aditya-vx"><img src="https://github-readme-stats.vercel.app/api?username=aditya-vx&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/aditya-vx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-vx&theme=radical&layout=compact"></a></p> 
-
 
 ### Let's connect!
 <p>
@@ -29,13 +18,5 @@
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/aditya-vx?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-
 
 </details>
