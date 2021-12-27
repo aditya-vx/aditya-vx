@@ -2,7 +2,5 @@
 
 
 ### Helo there I'm Aditya Ramadhan
-
-### Telegram!
 <p>
     <a href="https://t.me/adityavx" target="blank"><img src="https://img.shields.io/badge/@adityavx-30302f?style=flat&logo=telegram" /></a>
