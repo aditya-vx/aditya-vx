@@ -1,11 +1,7 @@
-![aditya](https://telegra.ph/file/73322d6c642c5d441ed3b.jpg)
+![y](https://telegra.ph/file/d1f78dbae1a6894f933ad.jpg)
 
 
-# Helo there I'm Aditya 
-## Kanger 100000%
-
-
-<p align="center"><a href="https://github.com/aditya-vx"><img src="https://github-readme-stats.vercel.app/api?username=Aditya-vx&show_icons=true&theme=radical"></a></p>
+## Helo there I'm Aditya Ramadhan
 
 ### connect!
 <p>
